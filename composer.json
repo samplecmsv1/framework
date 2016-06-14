@@ -16,8 +16,7 @@
     },
     "autoload": {
          "files":[
-            "./core/_function.php",
-            "./_function.php"
+            "./core/_function.php"
         ],
          "psr-4": {
             "core\\": "./core/"
